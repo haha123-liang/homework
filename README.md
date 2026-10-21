@@ -1,2 +1,2 @@
-# homework
-Git实验，练习Fork、分支、PR合并
+# 第三次修改：学习PR（Pull Request）
+PR就是请求把本分支的改动合并到main主分支，等待别人审核合并。
